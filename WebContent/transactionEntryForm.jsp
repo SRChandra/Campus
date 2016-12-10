@@ -7,7 +7,8 @@
 <title>Transaction Entry Form</title>
 </head>
 <body background="PlainLogo.jpg">
-hello login success
+<div align="center">
+ login success
  please proceed to make transaction here below
  <h1>Transaction Entry Form</h1>
 	<div class="ex">
@@ -50,6 +51,6 @@ hello login success
     }
 %>
  </h2>
-
-</body>
+</div> 
+</div> </body>
 </html>

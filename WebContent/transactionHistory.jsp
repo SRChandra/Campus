@@ -10,7 +10,7 @@
 <title>Vendor Transaction History </title>
 </head>
 <body background="PlainLogo.jpg">
-
+<div align="center">
 <%String username = session.getAttribute("username").toString();
 RegistrationImpl reg = new RegistrationImpl();
 Employee employee = reg.getEmployee(Long.parseLong(username));
@@ -18,7 +18,7 @@ ArrayList<Transaction> transList = TransactionImpl.getTransactionsForEmployee(em
 %>
 <h1>Vendor : <%=username%></h1>
 <h1>Transaction History</h1>
-<table cellspacing="2" cellpadding="2" border=1 title="Transaction List">
+<table cellspacing="2" cellpadding="2" border=1 title="Transaction List" bgcolor="white">
 <tr>
 <th>Transaction ID</th>
 <th>Employee ID</th>

@@ -8,6 +8,7 @@
 <title>Transaction details</title>
 </head>
 <body background="PlainLogo.jpg">
+<div align="center">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Display</title>
@@ -16,9 +17,10 @@ table#nat{
 	width: 50%;
 	background-color: #c48ec5;
 }
-</style>
+</style></div> 
 </head>
 <body background="PlainLogo.jpg">  
+<div align="center">
 <H1>Transaction recorded successfully</H1>
 <% 	
 String vendorid =  request.getParameter("vendorid");
@@ -48,5 +50,5 @@ String vendorid =  request.getParameter("vendorid");
     <td><a href="transactionEntryForm.jsp">Add another transaction</a></td>
   </tr>
 </table>
-</body>
+</div> </body>
 </html>

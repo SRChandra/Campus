@@ -9,6 +9,7 @@
 </head>
 <body>
 <form >
+<div align="center">
       <div class="input-container">
         <input type="text" id="Email" required="required"/>
         <label for="Username">Email Id</label>
@@ -28,6 +29,6 @@
         <a href="index.jsp"><button><span>Submit</span></button>
       </div>
     </form>
-
+</div> 
 </body>
 </html>

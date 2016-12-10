@@ -14,7 +14,8 @@ div.ex {
 	margin: 0px
 }
 </style>
-<body background="PlainLogo.jpg">
+<body background="PlainLogo.jpg" align="center">
+<div align="center">
 	<h1>Registration Form</h1>
 	<div class="ex">
 		<form action="RegistrationController" method="post">
@@ -40,5 +41,5 @@ div.ex {
 			<input type="submit" value="register" />
 		</form>
 	</div>
-</body>
+</div> </body>
 </html>

@@ -14,6 +14,7 @@ table#nat{
 </style>
 </head>
 <body background="PlainLogo.jpg">  
+<div align="center">
 <H1>Successfully registered you can go for cash less with only KinId in campus for any transaction</H1>
 <% 	
 String name =  request.getParameter("name");
@@ -45,5 +46,5 @@ String name =  request.getParameter("name");
 
 </table>
  <a href="index.jsp">Please click here for Login</a>
-</body>
+</div> </body>
 </html>
