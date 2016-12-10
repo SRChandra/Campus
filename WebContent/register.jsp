@@ -14,7 +14,7 @@ div.ex {
 	margin: 0px
 }
 </style>
-<body>
+<body background="PlainLogo.jpg">
 	<h1>Registration Form</h1>
 	<div class="ex">
 		<form action="RegistrationController" method="post">

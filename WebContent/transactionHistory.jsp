@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Vendor Transaction History </title>
 </head>
-<body>
+<body background="PlainLogo.jpg">
 
 <%String username = session.getAttribute("username").toString();
 RegistrationImpl reg = new RegistrationImpl();

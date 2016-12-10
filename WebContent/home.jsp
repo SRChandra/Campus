@@ -13,7 +13,7 @@ table#nat{
 }
 </style>
 </head>
-<body>  
+<body background="PlainLogo.jpg">  
 <H1>Successfully registered you can go for cash less with only KinId in campus for any transaction</H1>
 <% 	
 String name =  request.getParameter("name");

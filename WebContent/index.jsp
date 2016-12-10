@@ -4,10 +4,11 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Cash Less Campus</title>
+
     </head>
 
-    <body>
-
+    <body background="PlainLogo.jpg">
+<H1> Capgemini Cashless Campus(3C)</H1>
    
    <form action="LoginController" method="post">
 Enter username :<input type="text" name="username" required="required"> <br>

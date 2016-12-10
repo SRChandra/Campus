@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Transaction details</title>
 </head>
-<body>
+<body background="PlainLogo.jpg">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Display</title>
@@ -18,7 +18,7 @@ table#nat{
 }
 </style>
 </head>
-<body>  
+<body background="PlainLogo.jpg">  
 <H1>Transaction recorded successfully</H1>
 <% 	
 String vendorid =  request.getParameter("vendorid");

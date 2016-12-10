@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Transaction Entry Form</title>
 </head>
-<body>
+<body background="PlainLogo.jpg">
 hello login success
  please proceed to make transaction here below
  <h1>Transaction Entry Form</h1>
