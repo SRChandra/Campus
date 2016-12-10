@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cg.mycampus.TestRegistration" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-12-10T08:49:09" hostname="DIN66008936" time="0.001">
+  <properties/>
+  <testcase name="TestEmployeeRegistration" classname="com.cg.mycampus.TestRegistration" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
